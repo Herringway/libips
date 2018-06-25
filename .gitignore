@@ -1,0 +1,14 @@
+.dub
+docs.json
+__dummy.html
+docs/
+libips.so
+libips.dylib
+libips.dll
+libips.a
+libips.lib
+libips-test-*
+*.exe
+*.o
+*.obj
+*.lst

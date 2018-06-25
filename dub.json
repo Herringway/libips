@@ -1,0 +1,9 @@
+{
+	"name": "libips",
+	"authors": [
+		"Cameron"
+	],
+	"description": "Library for International Patching System patches",
+	"copyright": "Copyright © 2018, Cameron",
+	"license": "BSL-1.0"
+}
